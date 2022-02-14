@@ -13,7 +13,7 @@ In January 2022 NASA’s OIG released an [audit report](https://oig.nasa.gov/doc
 * NCES 2020 [education attainment report](https://nces.ed.gov/programs/digest/2020menu_tables.asp) and manually requested datasets tracking the awarding of NASA-qualifying STEM degrees in the US from 2010-2020 
 
 ## Algorithms/Tools
-This project used Google Sheets for initial analysis, and then Excel for analysis of the larger datasets (2013 applicant data and NCES records of STEM Degrees awarded from 2010-2020). Tableau was used for final data visualization. 
+This project used Google Sheets for initial analysis, and then Excel for analysis of the larger datasets (2013 applicant data and NCES records of STEM Degrees awarded from 2010-2020). Tableau was used for final data visualization - dashboard is online at [NASA Astronaut Selection](https://public.tableau.com/app/profile/saramoira.shields/viz/NASAAstronautSelection/Dashboard1?publish=yes)
 
 ## Future Work
 I plan to submit a FOIA request to NASA for a more complete applicant dataset  - the 2013 dataset does not have degree fields of the applicants, and I would like to have at minimum the applicant data from 2009-2021 as well. Also, future work will include adding the NCES Education Trend data to the dashboard. 
