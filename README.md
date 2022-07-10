@@ -1,5 +1,4 @@
 # NASA Astronaut Selection: Exploratory Analysis
-Saramoira Shields
 
 ## Abstract
 The goal of this project was to analyze overall trends in NASA's astronaut selection process and specifically, the 2013 applicant pool in order to motivate a recommendation for future thorough analysis and modeling of potential biases in selection. 
@@ -13,4 +12,4 @@ In January 2022 NASA’s OIG released an [audit report](https://oig.nasa.gov/doc
 * NCES 2020 [education attainment report](https://nces.ed.gov/programs/digest/2020menu_tables.asp) and manually requested datasets tracking the awarding of NASA-qualifying STEM degrees in the US from 2010-2020 
 
 ## Algorithms/Tools
-This project used Google Sheets for initial analysis, and then Excel for analysis of the larger datasets (2013 applicant data and NCES records of STEM Degrees awarded from 2010-2020). Tableau was used for final data visualization - dashboard is online at [NASA Astronaut Selection](https://public.tableau.com/app/profile/saramoira.shields/viz/NASAAstronautSelection/Dashboard1?publish=yes)
+I used Google Sheets for initial analysis and scoping of the project, and then Excel for analysis of the larger datasets (2013 applicant data and NCES records of STEM Degrees awarded from 2010-2020). The final data visualization was built using Tableau - the interactive dashboard is online here: [NASA Astronaut Selection](https://public.tableau.com/app/profile/saramoira.shields/viz/NASAAstronautSelection/Dashboard1?publish=yes)
