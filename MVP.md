@@ -1,4 +1,4 @@
-## Analysis NASA Astronaut selection
+## Analysis of NASA Astronaut selection
 
 The goal of this project is to assess the NASA Astronaut candidate selection process from the viewpoint of diversity metrics (race/ethnicity, gender).
 
